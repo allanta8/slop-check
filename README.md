@@ -160,10 +160,10 @@ MIT
 
 If this skill saves you time or helps you publish better work, donations are welcome.
 
-Solana / SPL-compatible wallet:
+Solana wallet for SOL and ZEC-as-a-Solana-token:
 
 ```text
 3anjTTfVLP8h6zKBaow6Lq2ZinkvSiGmSurH7Zg6on2U
 ```
 
-Use this for SOL or compatible SPL tokens. Do not send native Zcash/ZEC to this address unless your wallet explicitly supports ZEC as a Solana/SPL asset.
+Use this for SOL or ZEC on the Solana chain. Do not send native Zcash mainnet ZEC to this address.
