@@ -1,0 +1,7 @@
+interface:
+  display_name: "Slop Check"
+  short_description: "Audit drafts for AI slop patterns"
+  default_prompt: "Use $slop-check to audit this draft for AI slop before I publish it."
+
+policy:
+  allow_implicit_invocation: true
